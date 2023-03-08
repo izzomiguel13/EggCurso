@@ -1,1 +1,2 @@
 Este es un archivo de texto común y corriente. 
+Esta es una modificación de mi archivo.
